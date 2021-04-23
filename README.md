@@ -4,9 +4,9 @@
 
 A physical therapist turned software engineer. What began as a dream to build an application to help my patients turned into a fire that is only satiated when writing elegant code to solve complicated problems. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/hussein-eid/)](https://www.https://www.linkedin.com/in/hussein-eid/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hussein-eid/)](https://www.https://www.linkedin.com/in/hussein-eid/)
 [![Gmail Badge](https://img.shields.io/badge/-husseingeid@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:husseingeid@gmail.com)](mailto:husseingeid@gmail.com)
-[![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](husseineid.com)
+[![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white&link=https://husseineid.com/)](husseineid.com)
 
 ## ⚡ Technologies
 
@@ -28,7 +28,6 @@ A physical therapist turned software engineer. What began as a dream to build an
 ![Docker](	https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)
 
 - 🔭 I’m currently working on a physical therapy rehabilitation program generator
 - 🌱 I’m currently learning python and 
