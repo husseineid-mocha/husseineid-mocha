@@ -8,6 +8,11 @@ A physical therapist turned software engineer. What began as a dream to build an
 [![Gmail Badge](https://img.shields.io/badge/-husseingeid@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:husseingeid@gmail.com)](mailto:husseingeid@gmail.com)
 [![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](https://husseineid.com/)
 
+- 🔭 I’m currently working on a physical therapy rehabilitation program generator
+- 🌱 I’m currently learning python and pathfinder algorithms 
+- 👯 I’m looking to collaborate on any new and exciting project!
+- 💬 Ask me about my journey as a software engineer or physical therapist
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,12 +34,17 @@ A physical therapist turned software engineer. What began as a dream to build an
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on a physical therapy rehabilitation program generator
-- 🌱 I’m currently learning python and 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Hussein's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=husseineid-mocha&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseineid-mocha" />
+
+</details>
 
